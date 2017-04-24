@@ -8,7 +8,7 @@ public class OOPLecture1 {
     // Q1: Create and abstract class named "SuperClass"
 
     // Q2: Add an int named "instanceNumber" as a instance variable with getter and setter methods
-    //     (getNumber() and setNumber(int)) to SuperClass (Do not define a constructor for SuperClass)
+    //     (getInstanceNumber() and setInstanceNumber(int)) to SuperClass (Do not define a constructor for SuperClass)
 
     // Q3: Create an abstract method in SuperClass called "action(int)" that returns an int
 
@@ -24,7 +24,7 @@ public class OOPLecture1 {
         // The following code is an example of testing these inner classes
 
 
-//        // We need an instance of the outer class to use the inner classes
+//        We need an instance of the outer class to use the inner classes
 //        OOPLecture1 outerClass = new OOPLecture1();
 //
 //        // Use the instance of the outer class to create instances of the inner class
